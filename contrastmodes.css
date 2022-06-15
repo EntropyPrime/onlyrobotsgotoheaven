@@ -1,0 +1,22 @@
+ body {
+    color: #222;
+    background: #fff;
+  }
+  a {
+    color: #0033cc;
+  }
+  
+  /* Dark Mode styles */
+  body.dark-theme {
+    color: #eee;
+    background: #000;
+  }
+  body.dark-theme a {
+    color: #809fff;
+  }
+
+  img {
+    max-width: 100%;
+    max-height: 100vh;
+    height: auto;
+}
